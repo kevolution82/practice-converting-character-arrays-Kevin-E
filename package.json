@@ -1,0 +1,23 @@
+{
+  "name": "practice-converting-character-arrays-kevin-e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "characterArrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevolution82/practice-converting-character-arrays-Kevin-E.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevolution82/practice-converting-character-arrays-Kevin-E/issues"
+  },
+  "homepage": "https://github.com/kevolution82/practice-converting-character-arrays-Kevin-E#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
